@@ -1,3 +1,7 @@
-.col-lg,.col-lg-3,.col-lg-9{
-    border: 2px solid black;
+
+.A{
+    background-color: blue;
+}
+.B{
+    background-color: chartreuse;
 }
